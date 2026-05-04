@@ -10,6 +10,14 @@ max_velv = 8;
 
 chao = false;
 
+xscale = 1;
+yscale = 1;
+
+tempo_coyote = game_get_speed(gamespeed_fps) * 0.1;
+timer_coyote = tempo_coyote;
+
+tempo_pulo = 20;
+timer_pulo = 0;
 
 enum state
 {
