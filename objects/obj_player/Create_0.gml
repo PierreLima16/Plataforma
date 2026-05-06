@@ -39,9 +39,12 @@ parede_timer = 0;
 tempo_part = 5;
 timer_part = 0;
 
+tempo_morte = game_get_speed(gamespeed_fps) * 1.5;
+timer_morte = tempo_morte;
+
 enum state
 {
-    parado, movendo, dash
+    parado, movendo, dash, morte
 }
 
 estado = state.parado;

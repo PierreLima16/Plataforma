@@ -19,6 +19,15 @@ switch(estado)
             if (x <= xstart + _limite_x) estado = "Recuar";
         }
         
+        if (_limite_y > 0)
+        {
+            if (y >= ystart + _limite_y) estado = "Recuar";
+        }
+        else if (_limite_y < 0)
+        {
+            if (y <= ystart + _limite_y) estado = "Recuar";
+        }
+        
         break;
     
     case "Recuar":

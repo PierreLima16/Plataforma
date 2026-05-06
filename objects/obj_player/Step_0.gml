@@ -330,6 +330,12 @@ switch(estado)
     
     case state.dash:
         
+        if (estado_txt != "Dash")
+        {
+            qtd_dashs = 0;
+            estado_txt = "Dash";
+        }
+        
         dash_timer--;
         
         velh = lengthdir_x(len, dir_dash);
@@ -354,13 +360,36 @@ switch(estado)
         {
             estado = state.movendo;
             dash_timer = dash_tempo;
-            qtd_dashs--;
             
             velh = (max_velh * sign(velh) * 0.3);
             velv = (max_velv * sign(velv) * 0.3);
         }
         
-        break;    
+        break;
+    
+    case state.morte:
+        
+        if (estado_txt != "Morte")
+        {
+            velv = -max_velv;
+            
+            estado_txt = "Morte";
+        }
+        
+        velh = 0;
+        if (velv < 0) velv += grav;
+        else if (velv > 0) velv += grav * 3;  
+        
+        mask_index = spr_mask;
+        image_angle = lerp(image_angle, 45, 0.1);
+        
+        if (y > room_height + 100)
+        {
+            room_restart();
+        }
+        
+        
+        break;
 }
 
 switch(qtd_dashs)
@@ -372,7 +401,8 @@ switch(qtd_dashs)
     case 1:
         sat = lerp(sat, 255, 0.1);
         break;
+
 }
 
-var _cor = make_colour_hsv(20, sat, 255);
-image_blend = _cor;
+var _cor_atual = make_colour_hsv(20, sat, 255);
+image_blend = _cor_atual;
