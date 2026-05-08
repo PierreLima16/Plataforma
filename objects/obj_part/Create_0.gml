@@ -6,3 +6,4 @@ image_yscale = 0;
 
 xscale = random_range(0.1, 0.8);
 yscale = xscale;
+angle_speed = 10;

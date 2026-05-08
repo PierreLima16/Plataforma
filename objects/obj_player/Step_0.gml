@@ -1,3 +1,7 @@
+if (keyboard_check_pressed(ord("R")))
+{
+    room_restart();
+}
 
 chao = place_meeting(x, y + 1, obj_plat);
 parede_dir = place_meeting(x + 1, y, obj_plat);
