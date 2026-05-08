@@ -1,0 +1,415 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[08-05-2026 18:59:54] Initialized GameMaker Project: Plataforma.yyp
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/animcurves
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/extensions
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/fonts
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/notes
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects
+[08-05-2026 18:59:54] Checking obj_serra
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_serra
+[08-05-2026 18:59:54] Checking obj_player_ext
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player_ext
+[08-05-2026 18:59:54] Checking obj_player
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player
+[08-05-2026 18:59:54] Checking obj_plat_oneway
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat_oneway
+[08-05-2026 18:59:54] Checking obj_plat
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat
+[08-05-2026 18:59:54] Checking obj_passa_level
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_passa_level
+[08-05-2026 18:59:54] Checking obj_particula
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_particula
+[08-05-2026 18:59:54] Checking obj_part
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_part
+[08-05-2026 18:59:54] Checking obj_morte
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_morte
+[08-05-2026 18:59:54] Checking obj_item
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_item
+[08-05-2026 18:59:54] Checking obj_bonus
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_bonus
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_bonus
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_bonus.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_bonus/obj_bonus.yy
+[08-05-2026 18:59:54] Invalid .yy file: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_bonus/obj_bonus.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_bonus/obj_bonus.yy
+[08-05-2026 18:59:54] Invalid file: obj_bonus.yy, will be moved to ___yyp_maker_trash
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Checking Collision_obj_player.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_item
+[08-05-2026 18:59:54] Checking obj_item.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_item/obj_item.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_item/obj_item.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_item/obj_item.yy"
+[08-05-2026 18:59:54] Found Object: obj_item
+[08-05-2026 18:59:54] Checking Collision_obj_player.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_morte
+[08-05-2026 18:59:54] Checking obj_morte.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_morte/obj_morte.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_morte/obj_morte.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_morte/obj_morte.yy"
+[08-05-2026 18:59:54] Found Object: obj_morte
+[08-05-2026 18:59:54] Checking Collision_obj_player.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_part
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_part.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_part/obj_part.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_part/obj_part.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_part/obj_part.yy"
+[08-05-2026 18:59:54] Found Object: obj_part
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_particula
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_particula.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_particula/obj_particula.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_particula/obj_particula.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_particula/obj_particula.yy"
+[08-05-2026 18:59:54] Found Object: obj_particula
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_passa_level
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_passa_level.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_passa_level/obj_passa_level.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_passa_level/obj_passa_level.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_passa_level/obj_passa_level.yy"
+[08-05-2026 18:59:54] Found Object: obj_passa_level
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Checking Collision_obj_player.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat
+[08-05-2026 18:59:54] Checking obj_plat.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat/obj_plat.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat/obj_plat.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat/obj_plat.yy"
+[08-05-2026 18:59:54] Found Object: obj_plat
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat_oneway
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_plat_oneway.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat_oneway/obj_plat_oneway.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat_oneway/obj_plat_oneway.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_plat_oneway/obj_plat_oneway.yy"
+[08-05-2026 18:59:54] Found Object: obj_plat_oneway
+[08-05-2026 18:59:54] Checking Draw_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player
+[08-05-2026 18:59:54] Checking Step_2.gml
+[08-05-2026 18:59:54] Checking Step_1.gml
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_player.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player/obj_player.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player/obj_player.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player/obj_player.yy"
+[08-05-2026 18:59:54] Found Object: obj_player
+[08-05-2026 18:59:54] Checking Draw_0.gml
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player_ext
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_player_ext.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player_ext/obj_player_ext.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player_ext/obj_player_ext.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_player_ext/obj_player_ext.yy"
+[08-05-2026 18:59:54] Found Object: obj_player_ext
+[08-05-2026 18:59:54] Checking Draw_0.gml
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_serra
+[08-05-2026 18:59:54] Checking Step_0.gml
+[08-05-2026 18:59:54] Checking obj_serra.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_serra/obj_serra.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_serra/obj_serra.yy
+[08-05-2026 18:59:54] Par: "folders/Objects" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/objects/obj_serra/obj_serra.yy"
+[08-05-2026 18:59:54] Found Object: obj_serra
+[08-05-2026 18:59:54] Checking Draw_0.gml
+[08-05-2026 18:59:54] Checking Create_0.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options
+[08-05-2026 18:59:54] Checking windows
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/windows
+[08-05-2026 18:59:54] Checking tvos
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/tvos
+[08-05-2026 18:59:54] Checking operagx
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/operagx
+[08-05-2026 18:59:54] Checking main
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/main
+[08-05-2026 18:59:54] Checking mac
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/mac
+[08-05-2026 18:59:54] Checking linux
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/linux
+[08-05-2026 18:59:54] Checking ios
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/ios
+[08-05-2026 18:59:54] Checking html5
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/html5
+[08-05-2026 18:59:54] Checking android
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/android
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/android
+[08-05-2026 18:59:54] Checking options_android.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/android/options_android.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/android/options_android.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/html5
+[08-05-2026 18:59:54] Checking options_html5.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/html5/options_html5.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/html5/options_html5.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/ios
+[08-05-2026 18:59:54] Checking options_ios.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/ios/options_ios.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/ios/options_ios.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/linux
+[08-05-2026 18:59:54] Checking options_linux.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/linux/options_linux.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/linux/options_linux.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/mac
+[08-05-2026 18:59:54] Checking options_mac.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/mac/options_mac.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/mac/options_mac.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/main
+[08-05-2026 18:59:54] Checking options_main.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/main/options_main.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/main/options_main.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/operagx
+[08-05-2026 18:59:54] Checking options_operagx.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/operagx/options_operagx.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/operagx/options_operagx.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/tvos
+[08-05-2026 18:59:54] Checking options_tvos.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/tvos/options_tvos.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/tvos/options_tvos.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/options/windows
+[08-05-2026 18:59:54] Checking options_windows.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/options/windows/options_windows.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/options/windows/options_windows.yy
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/paths
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/rooms
+[08-05-2026 18:59:54] Checking Room1
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/rooms/Room1
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/rooms/Room1
+[08-05-2026 18:59:54] Checking Room1.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/rooms/Room1/Room1.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/rooms/Room1/Room1.yy
+[08-05-2026 18:59:54] Par: "folders/Rooms" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/rooms/Room1/Room1.yy"
+[08-05-2026 18:59:54] Found Room: Room1
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/scripts
+[08-05-2026 18:59:54] Checking scr_functions
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/scripts/scr_functions
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/scripts/scr_functions
+[08-05-2026 18:59:54] Checking scr_functions.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/scripts/scr_functions/scr_functions.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/scripts/scr_functions/scr_functions.yy
+[08-05-2026 18:59:54] Par: "folders/Scripts" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/scripts/scr_functions/scr_functions.yy"
+[08-05-2026 18:59:54] Found Script: scr_functions
+[08-05-2026 18:59:54] Checking scr_functions.gml
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sequences
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/shaders
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sounds
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites
+[08-05-2026 18:59:54] Checking spr_serra
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra
+[08-05-2026 18:59:54] Checking spr_poeira
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira
+[08-05-2026 18:59:54] Checking spr_player
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player
+[08-05-2026 18:59:54] Checking spr_plat_oneway
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway
+[08-05-2026 18:59:54] Checking spr_plat
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat
+[08-05-2026 18:59:54] Checking spr_passa_level
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level
+[08-05-2026 18:59:54] Checking spr_part_bonus
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus
+[08-05-2026 18:59:54] Checking spr_morte
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte
+[08-05-2026 18:59:54] Checking spr_mask
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask
+[08-05-2026 18:59:54] Checking spr_item
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item
+[08-05-2026 18:59:54] Checking spr_bonus_ext
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext
+[08-05-2026 18:59:54] Checking spr_bonus
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus
+[08-05-2026 18:59:54] Checking spr_bonus.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/spr_bonus.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/spr_bonus.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/spr_bonus.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_bonus
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers
+[08-05-2026 18:59:54] Checking b9fead6a-8154-4da4-a040-882180c5a44c.png
+[08-05-2026 18:59:54] Checking 6dcee71c-dbf5-43b3-b3bd-35bddd6df10b.png
+[08-05-2026 18:59:54] Checking 3206421c-1537-4b2f-ba01-4bb5c1092772.png
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers
+[08-05-2026 18:59:54] Checking b9fead6a-8154-4da4-a040-882180c5a44c
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/b9fead6a-8154-4da4-a040-882180c5a44c
+[08-05-2026 18:59:54] Checking 6dcee71c-dbf5-43b3-b3bd-35bddd6df10b
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/6dcee71c-dbf5-43b3-b3bd-35bddd6df10b
+[08-05-2026 18:59:54] Checking 3206421c-1537-4b2f-ba01-4bb5c1092772
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/3206421c-1537-4b2f-ba01-4bb5c1092772
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/3206421c-1537-4b2f-ba01-4bb5c1092772
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/6dcee71c-dbf5-43b3-b3bd-35bddd6df10b
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus/layers/b9fead6a-8154-4da4-a040-882180c5a44c
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext
+[08-05-2026 18:59:54] Checking spr_bonus_ext.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/spr_bonus_ext.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/spr_bonus_ext.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/spr_bonus_ext.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_bonus_ext
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/layers
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/layers
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_bonus_ext/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item
+[08-05-2026 18:59:54] Checking spr_item.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/spr_item.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/spr_item.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/spr_item.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_item
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/layers
+[08-05-2026 18:59:54] Checking 15ea5ef2-bbe4-4b00-9649-d24bda0f078e.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/layers
+[08-05-2026 18:59:54] Checking 15ea5ef2-bbe4-4b00-9649-d24bda0f078e
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/layers/15ea5ef2-bbe4-4b00-9649-d24bda0f078e
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_item/layers/15ea5ef2-bbe4-4b00-9649-d24bda0f078e
+[08-05-2026 18:59:54] Checking 22f2b77d-2321-4dba-80bd-6da570f39eb4.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask
+[08-05-2026 18:59:54] Checking spr_mask.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/spr_mask.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/spr_mask.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/spr_mask.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_mask
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/layers
+[08-05-2026 18:59:54] Checking 7e742a64-a769-4eea-9b36-e1173e7e2a77.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/layers
+[08-05-2026 18:59:54] Checking 7e742a64-a769-4eea-9b36-e1173e7e2a77
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/layers/7e742a64-a769-4eea-9b36-e1173e7e2a77
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_mask/layers/7e742a64-a769-4eea-9b36-e1173e7e2a77
+[08-05-2026 18:59:54] Checking 353a89eb-929f-4b32-a344-ad12b59b63be.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte
+[08-05-2026 18:59:54] Checking spr_morte.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/spr_morte.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/spr_morte.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/spr_morte.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_morte
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/layers
+[08-05-2026 18:59:54] Checking 45d2426d-0973-4624-98e4-b3e32b716be0.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/layers
+[08-05-2026 18:59:54] Checking 45d2426d-0973-4624-98e4-b3e32b716be0
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/layers/45d2426d-0973-4624-98e4-b3e32b716be0
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_morte/layers/45d2426d-0973-4624-98e4-b3e32b716be0
+[08-05-2026 18:59:54] Checking 2e988f11-c3fb-4d42-b96a-1b466670e66a.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus
+[08-05-2026 18:59:54] Checking spr_part_bonus.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/spr_part_bonus.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/spr_part_bonus.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/spr_part_bonus.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_part_bonus
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/layers
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/layers
+[08-05-2026 18:59:54] Checking 1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_part_bonus/layers/1ad16686-4968-4249-9a2c-4522536ae797
+[08-05-2026 18:59:54] Checking 2de4b267-89b3-4476-be87-7da52473dc62.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level
+[08-05-2026 18:59:54] Checking spr_passa_level.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/spr_passa_level.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/spr_passa_level.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/spr_passa_level.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_passa_level
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/layers
+[08-05-2026 18:59:54] Checking b22d325b-5929-4ea0-add7-49488352a0f3.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/layers
+[08-05-2026 18:59:54] Checking b22d325b-5929-4ea0-add7-49488352a0f3
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/layers/b22d325b-5929-4ea0-add7-49488352a0f3
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_passa_level/layers/b22d325b-5929-4ea0-add7-49488352a0f3
+[08-05-2026 18:59:54] Checking 630ae84d-31fb-483e-a24c-4fe67cef7563.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat
+[08-05-2026 18:59:54] Checking spr_plat.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/spr_plat.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/spr_plat.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/spr_plat.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_plat
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/layers
+[08-05-2026 18:59:54] Checking 36302ef1-09da-48aa-9d0f-4b9108617c80.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/layers
+[08-05-2026 18:59:54] Checking 36302ef1-09da-48aa-9d0f-4b9108617c80
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/layers/36302ef1-09da-48aa-9d0f-4b9108617c80
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat/layers/36302ef1-09da-48aa-9d0f-4b9108617c80
+[08-05-2026 18:59:54] Checking 8cccd3c2-0832-4c5a-b584-4ca8265a5147.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway
+[08-05-2026 18:59:54] Checking spr_plat_oneway.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/spr_plat_oneway.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/spr_plat_oneway.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/spr_plat_oneway.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_plat_oneway
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/layers
+[08-05-2026 18:59:54] Checking dd7d1ea8-669e-4dcb-b139-44920340fb52.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/layers
+[08-05-2026 18:59:54] Checking dd7d1ea8-669e-4dcb-b139-44920340fb52
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/layers/dd7d1ea8-669e-4dcb-b139-44920340fb52
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_plat_oneway/layers/dd7d1ea8-669e-4dcb-b139-44920340fb52
+[08-05-2026 18:59:54] Checking bc4aa9af-616f-4bb5-b22f-5662b8496aa7.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player
+[08-05-2026 18:59:54] Checking spr_player.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/spr_player.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/spr_player.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/spr_player.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_player
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/layers
+[08-05-2026 18:59:54] Checking 073e5a50-6020-425b-9d58-897f87c3a43c.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/layers
+[08-05-2026 18:59:54] Checking 073e5a50-6020-425b-9d58-897f87c3a43c
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/layers/073e5a50-6020-425b-9d58-897f87c3a43c
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_player/layers/073e5a50-6020-425b-9d58-897f87c3a43c
+[08-05-2026 18:59:54] Checking 9dac7722-4aa7-462c-9ef4-955a1f0b8f20.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira
+[08-05-2026 18:59:54] Checking spr_poeira.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/spr_poeira.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/spr_poeira.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/spr_poeira.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_poeira
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/layers
+[08-05-2026 18:59:54] Checking b2f8340b-e183-4b21-9210-19db9432d2cd.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/layers
+[08-05-2026 18:59:54] Checking b2f8340b-e183-4b21-9210-19db9432d2cd
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/layers/b2f8340b-e183-4b21-9210-19db9432d2cd
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_poeira/layers/b2f8340b-e183-4b21-9210-19db9432d2cd
+[08-05-2026 18:59:54] Checking 60f24be8-c12c-4342-a9d0-9a79a0996e22.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra
+[08-05-2026 18:59:54] Checking spr_serra.yy
+[08-05-2026 18:59:54] Parsing C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/spr_serra.yy
+[08-05-2026 18:59:54] Reading C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/spr_serra.yy
+[08-05-2026 18:59:54] Par: "folders/Sprites" at dir: "C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/spr_serra.yy"
+[08-05-2026 18:59:54] Found Sprite: spr_serra
+[08-05-2026 18:59:54] Checking layers
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/layers
+[08-05-2026 18:59:54] Checking 3b7b8440-1a19-475c-946f-6b68af838574.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/layers
+[08-05-2026 18:59:54] Checking 3b7b8440-1a19-475c-946f-6b68af838574
+[08-05-2026 18:59:54] Directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/layers/3b7b8440-1a19-475c-946f-6b68af838574
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/sprites/spr_serra/layers/3b7b8440-1a19-475c-946f-6b68af838574
+[08-05-2026 18:59:54] Checking 63fb2353-5f5f-471c-826c-c74a033705b3.png
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/tilesets
+[08-05-2026 18:59:54] Current parent directory: C:/Users/Pierr/GameMakerProjects/Plataforma/timelines
+[08-05-2026 18:59:54] Moving files to trash...
+[08-05-2026 18:59:54] Files yeeted successfully!
+[08-05-2026 18:59:54] Generating YYP...
+[08-05-2026 18:59:54] Plataforma.yyp created successfully!
